@@ -1,0 +1,36 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.outer{
+    width: 700px;
+    height: 700px;
+    margin: 0px auto;
+    box-shadow: 5px;
+    
+}
+
+.outer h1{
+    text-align: center;
+}
+
+p{
+    font-size: 20px;  
+}
+
+.border{
+   width: 100%;
+   padding: 5px;
+   background-color: cadetblue;
+   border: 1px solid black;  
+   font-weight: bold;  
+}
+
+ul{
+    font-size: 20px;
+    margin-left: 55px;
+}
+h4{
+    padding-left: 20px;
+    font-size: 30px;
+}
